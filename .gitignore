@@ -2,4 +2,5 @@
 *.out
 *.exe
 helloWorld-asm
+helloWorld-cob
 helloWorld-f90
